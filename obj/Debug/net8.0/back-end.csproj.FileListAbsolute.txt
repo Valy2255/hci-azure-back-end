@@ -30,3 +30,4 @@ C:\aFAC\IOC\hci_azure_project\back-end\obj\Debug\net8.0\refint\back-end.dll
 C:\aFAC\IOC\hci_azure_project\back-end\obj\Debug\net8.0\back-end.pdb
 C:\aFAC\IOC\hci_azure_project\back-end\obj\Debug\net8.0\back-end.genruntimeconfig.cache
 C:\aFAC\IOC\hci_azure_project\back-end\obj\Debug\net8.0\ref\back-end.dll
+C:\aFAC\IOC\hci_azure_project\back-end\obj\Debug\net8.0\back-end.sourcelink.json
